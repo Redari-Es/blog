@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Kylin Install Manual
+Name[zh_CN]=银河麒麟高级服务器操作系统V10系统安装手册
+Comment=Kylin Install Manual 
+Comment[zh_CN]=银河麒麟高级服务器操作系统 V10（SP2）安装手册-V0.2-20210519.pdf 
+Exec=atril /usr/share/doc/KylinManual/银河麒麟高级服务器操作系统 V10（SP2）安装手册-V0.2-20210519.pdf 
+Icon=user-manual
+Terminal=false
+Type=Application
+Categories=Application;
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=gnome-desktop
+X-GNOME-Bugzilla-Component=gnome-about
+X-GNOME-Bugzilla-Version=2.16.0
